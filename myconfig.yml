@@ -1,0 +1,15 @@
+OPENAI_API_KEY: 12345
+AI21_STUDIO_API_KEY: 12345
+
+COHERE_STUDIO_API_KEY: 'your_cohere_api_key_here'
+TEXTSYNTH_API_SECRET_KEY: 'your_textsynth_api_key_here'
+ANTHROPIC_API_KEY: 'your_anthropic_api_key_here'
+WANDB_API_KEY: 12345
+WANDB_PROJECT: 
+
+TAVILY_API_KEY: 12345
+LANGCHAIN_API_KEY: 12345
+LANGCHAIN_TRACING_V2: true
+LANGCHAIN_ENDPOINT: https://api.smith.langchain.com/
+LANGCHAIN_HUB_API_URL: https://api.hub.langchain.com/
+LANGCHAIN_WANDB_TRACING: true
